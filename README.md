@@ -4,7 +4,7 @@
 
 
 #### Tenho 23 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS. 
-#### Trabalho como desenvolvedor Fullstack e faço iniciação científica na área de Sistemas Operacionais e Compiladores.
+#### Trabalho como desenvolvedor Fullstack e faço iniciação científica nas áreas de Sistemas Operacionais e Compiladores.
 
 <a href="https://github.com/viniciusfdasilva">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true""/>
