@@ -1,8 +1,6 @@
 # [![Vinicius Silva](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)
 
-### Hi there 👋 :nerd_face:
-
-## Olá! Eu sou o Vinicius Silva!
+## Olá! 👋 :nerd_face: Eu sou o Vinicius Silva!
 <a href="https://github.com/viniciusfdasilva">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true""/>
   
