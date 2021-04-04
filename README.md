@@ -1,9 +1,42 @@
-### Hi there 👋
+### Hi there 👋 :nerd_face:
 
 <!--
 **viniciusfdasilva/viniciusfdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# [![Clarissa Lima Tech](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/master/icon/logo.png)](https://github.com/Clalloures/Clalloures/blob/master/icon/logo.png)
 Here are some ideas to get you started:
+
+## Olá! Eu sou o Vinicius Silva!
+<a href="https://github.com/viniciusfdasilva">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true""/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusfdasilva&layout=compact&langs_count=8&theme=dracula"/>
+<
+div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Js" height="30" width="40" src="">
+  <img align="center" alt="Vini-Ts" height="30" width="40" src="">
+  <img align="center" alt="Vini-React" height="30" width="40" src="">
+  <img align="center" alt="Vini-HTML" height="30" width="40" src="">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="">
+  <img align="center" alt="Vini-Docker" height="30" width="40" src="">
+  <img align="center" alt="Vini-Vscode" height="30" width="40" src="">
+<img align="center" alt="Vini-Php" height="30" width="40" src="">
+<img align="center" alt="Vini-Java" height="30" width="40" src="">
+<img align="center" alt="Vini-C" height="30" width="40" src="">
+<img align="center" alt="Vini-Android" height="30" width="40" src="">
+<img align="center" alt="Vini-Python" height="30" width="40" src="">
+<img align="center" alt="Vini-Django" height="30" width="40" src="">
+<img align="center" alt="Vini-Git" height="30" width="40" src="">
+<img align="center" alt="Vini-Mysql" height="30" width="40" src="">
+</div>
+  
+  ##
+  
+  <div>
+  <a href = "mailto: vinicius.silva.1046664@sga.pucminas.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viniciusfsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/viniciusilva_25/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/viniciusfdasilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=flat-square&logo=GitHub" 
+</div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
