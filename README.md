@@ -1,6 +1,8 @@
 # [![Vinicius Silva](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)
 
 ## Olá! 👋 :nerd_face: Eu sou o Vinicius Silva!
+
+## Tenho 23 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS, trabalho como desenvolvedor Fullstack e faço iniciação científica na área de Sistemas Operacionais e Compiladores.
 <a href="https://github.com/viniciusfdasilva">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true""/>
   
@@ -22,6 +24,7 @@
 <img align="center" alt="Vini-Django" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/django-original.svg">
 <img align="center" alt="Vini-Git" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/git-original.svg">
 <img align="center" alt="Vini-Mysql" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/mysql-original.svg">
+<img align="center" alt="Vini-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
