@@ -31,7 +31,7 @@
 <img align="center" alt="Vini-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Vini-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   
-  ![Snake animation](https://raw.githubusercontent.com/viniciusfdasilva/viniciusfdasilva/1cb7593e68c81b7e41a5847d00442ab5ffe1fdd4/github-user-contribution.svg)
+  ![Snake animation](https://raw.githubusercontent.com/viniciusfdasilva/viniciusfdasilva/main/github-user-contribution.svg)
 </div>
   
   ##
