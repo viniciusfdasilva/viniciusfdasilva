@@ -3,8 +3,9 @@
 ## Olá! 👋 :nerd_face: Eu sou o Vinicius Silva!
 
 
-#### Tenho 23 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS. 
-#### Trabalho como desenvolvedor Fullstack, sou monitor da disciplina de compiladores e faço iniciação científica nas áreas de Sistemas Operacionais e Compiladores.
+#### Tenho 24 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS. 
+#### Trabalho como desenvolvedor Fullstack na Sociedade Mineira de Cultura, fui monitor das disciplinas de Banco de Dados, Compiladores e Algoritmos e Estruturas de Dados II. Por fim, realizei uma iniciação científica nas áreas de Sistemas Operacionais e Compiladores trabalhando no projeto do sistema operacional <a href="https://github.com/nanvix">Nanvix</a>.
+
 
 <a href="https://github.com/viniciusfdasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -38,8 +39,8 @@
   
   <div>
   <a href = "mailto: vinicius.silva.1046664@sga.pucminas.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciusfsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/viniciusilva_25/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/ViniciusFranSil"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/viniciusfdasilva" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" 
+<a href="https://www.linkedin.com/in/viniciusfsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/viniciusfdasilva" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://medium.com/@vinicius.silva.1046664"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+
 </div>
