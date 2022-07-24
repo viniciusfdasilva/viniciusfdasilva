@@ -32,7 +32,7 @@
 <img align="center" alt="Vini-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Vini-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   
-  ![Snake animation](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
   
   ##
