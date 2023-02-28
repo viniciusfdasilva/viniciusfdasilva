@@ -4,7 +4,7 @@
 
 
 #### Tenho 24 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS. 
-#### Trabalho como desenvolvedor Fullstack na Sociedade Mineira de Cultura, fui monitor das disciplinas de Banco de Dados, Compiladores e Algoritmos e Estruturas de Dados II. Por fim, realizei uma iniciação científica nas áreas de Sistemas Operacionais e Compiladores trabalhando no projeto do sistema operacional <a href="https://github.com/nanvix">Nanvix</a>.
+#### Trabalho como desenvolvedor Fullstack na Sociedade Mineira de Cultura, fui monitor das disciplinas de Banco de Dados, Compiladores e Algoritmos e Estruturas de Dados II. Realizei minha iniciação científica nas áreas de Sistemas Operacionais e Compiladores trabalhando no projeto do sistema operacional <a href="https://github.com/nanvix">Nanvix</a>. E sou o desenvolvedor e mantenedor do sistema operacional <a href="github.com/viniciusfdasilva/vinux">Vinux</a>., baseado no Kernel Linux! 
 
 
 <a href="https://github.com/viniciusfdasilva">
