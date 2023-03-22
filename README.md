@@ -2,10 +2,19 @@
 
 ## Olá! 👋 :nerd_face: Eu sou o Vinicius Silva!
 
+##### Tenho 24 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS. 
 
-#### Tenho 24 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS. 
-#### Trabalho como desenvolvedor Fullstack na Sociedade Mineira de Cultura, fui monitor das disciplinas de Banco de Dados, Compiladores e Algoritmos e Estruturas de Dados II. Realizei minha iniciação científica nas áreas de Sistemas Operacionais e Compiladores trabalhando no projeto do sistema operacional <a href="https://github.com/nanvix">Nanvix</a>. E sou o desenvolvedor e mantenedor do sistema operacional <a href="github.com/viniciusfdasilva/vinux">Vinux</a>, baseado no Kernel Linux! 
+#### Atividades atuais:
 
+* Desenvolvedor Fullstack na Sociedade Mineira de Cultura
+* Desenvolvedor e mantenedor do sistema operacional <a href="github.com/viniciusfdasilva/vinux">Vinux</a>, baseado no Kernel Linux!
+
+
+#### Atividades passadas:
+* Iniciação científica nas áreas de Sistemas Operacionais e Compiladores trabalhando no projeto do sistema operacional <a href="https://github.com/nanvix">Nanvix</a>. 
+* Monitor da disciplina de Compiladores
+* Monitor da disciplina de Algoritmos e Estruturas de Dados II. 
+* Monitor das disciplina de Banco de Dados
 
 <a href="https://github.com/viniciusfdasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
