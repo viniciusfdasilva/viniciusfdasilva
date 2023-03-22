@@ -7,7 +7,7 @@
 #### Atividades atuais:
 
 * Desenvolvedor Fullstack na Sociedade Mineira de Cultura
-* Desenvolvedor e mantenedor do sistema operacional <a href="github.com/viniciusfdasilva/vinux">Vinux</a>, baseado no Kernel Linux!
+* Desenvolvedor e mantenedor do sistema operacional <a href="https://github.com/viniciusfdasilva/vinux">Vinux</a>, baseado no Kernel Linux!
 
 
 #### Atividades passadas:
