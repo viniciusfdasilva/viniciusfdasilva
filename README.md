@@ -1,20 +1,20 @@
 # [![Vinicius Silva](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)
 
-## Olá! 👋 :nerd_face: Eu sou o Vinicius Silva!
+## Hi! 👋 :nerd_face: I'm Vinicius Silva!
 
-##### Tenho 24 anos, sou graduando em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais - PUCMINAS. 
+Hi, I'm 25 years old, and I undergraduate from Computer Science at Pontifical Catholic University of Minas Gerais - PUCMINAS
 
-#### Atividades atuais:
+Mi current actings:
+   * Fullstack developer at Sociedade Mineira de Cultura maintainer of PUCMINAS
+   * Developer and maintainer of Operating System <a href="https://github.com/viniciusfdasilva/vinux">Vinux</a>, based on a Linux Kernel
+   * Developer and maintainer of <a href="https://github.com/viniciusfdasilva/danixfs">Danix</a>! A small root file system builer and manager
 
-* Desenvolvedor Fullstack na Sociedade Mineira de Cultura
-* Desenvolvedor e mantenedor do sistema operacional <a href="https://github.com/viniciusfdasilva/vinux">Vinux</a>, baseado no Kernel Linux!
 
-
-#### Atividades passadas:
-* Iniciação científica nas áreas de Sistemas Operacionais e Compiladores trabalhando no projeto do sistema operacional <a href="https://github.com/nanvix">Nanvix</a>. 
-* Monitor da disciplina de Compiladores
-* Monitor da disciplina de Algoritmos e Estruturas de Dados II. 
-* Monitor das disciplina de Banco de Dados
+Old actings:
+  * Scientific reseacher on Operating System and Compilers! Working on a <a href="https://github.com/nanvix">Nanvix</a> OS project
+  * Student mentor of Compilers discipline
+  * Student mentor of Algorithms and Data Structures II discipline
+  * Student mentor of Data Base discipline
 
 <a href="https://github.com/viniciusfdasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
