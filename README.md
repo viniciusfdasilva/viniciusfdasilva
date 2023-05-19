@@ -21,27 +21,17 @@ Old actings:
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfdasilva&layout=compact&langs_count=16&theme=tokyonight"/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/javascript-plain.svg">
-  <img align="center" alt="Vini-Ts" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/typescript-plain.svg">
+
   <img align="center" alt="Vini-React" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/react-original.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/css3-original.svg">
   <img align="center" alt="Vini-Docker" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/docker-original.svg">
   <img align="center" alt="Vini-Vscode" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/vscode.svg">
-<img align="center" alt="Vini-Php" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/php-original.svg">
 <img align="center" alt="Vini-Java" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/java-original.svg">
 <img align="center" alt="Vini-C" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/c-original.svg">
 <img align="center" alt="Vini-Android" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/android-original.svg">
 <img align="center" alt="Vini-Python" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/python-original.svg">
 <img align="center" alt="Vini-Django" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/django-original.svg">
 <img align="center" alt="Vini-Git" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/git-original.svg">
-<img align="center" alt="Vini-Mysql" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/mysql-original.svg">
-<img align="center" alt="Vini-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Vini-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Vini-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  
-  
+
 </div>
   
   ##
