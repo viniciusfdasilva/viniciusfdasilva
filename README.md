@@ -7,7 +7,7 @@ Hi, I'm 25 years old, and I undergraduate from Computer Science at Pontifical Ca
 Mi current actings:
    * Fullstack developer at Sociedade Mineira de Cultura maintainer of PUCMINAS
    * Developer and maintainer of Operating System <a href="https://github.com/viniciusfdasilva/vinux">Vinux</a>, based on a Linux Kernel
-   * Developer and maintainer of <a href="https://github.com/viniciusfdasilva/danixfs">Danix</a>! A small root file system builder and manager
+   * Developer and maintainer of <a href="https://github.com/viniciusfdasilva/danixfs">Danix</a>! A small subsystem builder and manager
 
 
 Old actings:
