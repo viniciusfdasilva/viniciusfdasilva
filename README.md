@@ -21,7 +21,7 @@ Old actings:
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfdasilva&layout=compact&langs_count=16&theme=tokyonight"/>
 
-
+<div style="display: inline_block"><br>
   <img align="center" alt="Vini-React" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/react-original.svg">
   <img align="center" alt="Vini-Docker" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/docker-original.svg">
   <img align="center" alt="Vini-Vscode" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/vscode.svg">
