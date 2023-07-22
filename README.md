@@ -31,7 +31,8 @@ Old actings:
 <img align="center" alt="Vini-Python" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/python-original.svg">
 <img align="center" alt="Vini-Django" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/django-original.svg">
 <img align="center" alt="Vini-Git" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/git-original.svg">
-
+<img align="center" alt="Vini-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+<img align="center" alt="Vini-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
 </div>
   
   ##
