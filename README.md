@@ -2,18 +2,19 @@
 
 ## Hi! 👋 :nerd_face: I'm Vinicius Silva!
 
-I'm Fullstack developer at Sociedade Mineira de Cultura. I've been working in web software development for two years, using tools like Django, Python, React, Apache, and Nginx. I'm also experienced in DevOps, working with CI/CD, Gitlab, Bitbucket, Docker, Git, Jira, and Confluence. Additionally, I handle server maintenance and database administration for PostgreSQL and MySQL.
+* I'm Fullstack developer at Sociedade Mineira de Cultura. I've been working in web software development for two years, using tools like Django, Python, React, Apache, and Nginx. I'm also experienced in DevOps, working with CI/CD, Gitlab, Bitbucket, Docker, Git, Jira, and Confluence. Additionally, I handle server maintenance and database administration for PostgreSQL and MySQL.
 
 
-I was Student Tutor of 3 disciplines: Data Base, Algorithms and Data Structures II and Compilers at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
+* I was Student Tutor of 3 disciplines: Data Base, Algorithms and Data Structures II and Compilers at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
 
 
-And I was Intern Researcher on a <a href="https://github.com/nanvix">Nanvix</a> project! Specializing in Compilers and Operating Systems at Nanvix. Involved in the development of a virtual machine using C and C++. Specifically in a Just-In-Time translation engine for the operating system Nanvix emulator that would translate assembly instructions from MIPS to RISC-V processor
+* And I was Intern Researcher on a <a href="https://github.com/nanvix">Nanvix</a> project! Specializing in Compilers and Operating Systems at Nanvix. Involved in the development of a virtual machine using C and C++. Specifically in a Just-In-Time translation engine for the operating system Nanvix emulator that would translate assembly instructions from MIPS to RISC-V processor
 Hi, I'm 25 years old, and I undergraduate from Computer Science at Pontifical Catholic University of Minas Gerais - PUCMINAS
 
 My main projects:
    * Developer and maintainer of Operating System <a href="https://github.com/viniciusfdasilva/vinux">Vinux</a>, based on a Linux Kernel
    * Developer and maintainer of <a href="https://github.com/viniciusfdasilva/danixfs">Danix</a>! A small subsystem builder and manager
+
 
 
 <a href="https://github.com/viniciusfdasilva">
