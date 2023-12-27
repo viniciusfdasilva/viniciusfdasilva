@@ -45,3 +45,5 @@ My main projects:
   <a href="https://medium.com/@vinicius.silva.1046664"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/viniciusfdasilva/viniciusfdasilva/89d329318fd10085b078bfdd85c6bc489502c893/github-contribution-grid-snake-dark.svg" alt="">
