@@ -46,4 +46,4 @@ My main projects:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/viniciusfdasilva/viniciusfdasilva/89d329318fd10085b078bfdd85c6bc489502c893/github-contribution-grid-snake-dark.svg" alt="">
+<img src="https://raw.githubusercontent.com/viniciusfdasilva/viniciusfdasilva/output/github-contribution-grid-snake-dark.svg" alt="">
