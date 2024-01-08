@@ -25,8 +25,7 @@ I was Student Tutor of 3 disciplines: Data Base, Algorithms and Data Structures 
 
 <summary><b><u>Intern Researcher</u></b></summary>
 <br/>
-I was Intern Researcher on a <a href="https://github.com/nanvix">Nanvix</a> project! Specializing in Compilers and Operating Systems at Nanvix. Involved in the development of a virtual machine using C and C++. Specifically in a Just-In-Time translation engine for the operating system Nanvix emulator that would translate assembly instructions from MIPS to RISC-V processor
-Hi, I'm 25 years old, and I undergraduate from Computer Science at Pontifical Catholic University of Minas Gerais - PUCMINAS
+I was Intern Researcher on a <a href="https://github.com/nanvix">Nanvix</a> project! Specializing in Compilers and Operating Systems at Nanvix. Involved in the development of a virtual machine using C and C++. Specifically in a Just-In-Time translation engine for the operating system Nanvix emulator that would translate assembly instructions from MIPS to RISC-V processor.
 
 </details>
 
