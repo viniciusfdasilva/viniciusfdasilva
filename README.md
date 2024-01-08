@@ -1,26 +1,49 @@
+<!--
 # [![Vinicius Silva](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)
+-->
+
 
 ## Hi! 👋 :nerd_face: I'm Vinicius Silva!
 
-* I'm Fullstack developer at Sociedade Mineira de Cultura. I've been working in web software development for two years, using tools like Django, Python, React, Apache, and Nginx. I'm also experienced in DevOps, working with CI/CD, Gitlab, Bitbucket, Docker, Git, Jira, and Confluence. Additionally, I handle server maintenance and database administration for PostgreSQL and MySQL.
+<details>
 
+<summary><b><u>Web Full Stack Developer</u></b></summary>
+<br/>
+I'm Mid-Level Fullstack developer at Sociedade Mineira de Cultura. I've been working in web software development for two years, using tools like Django, Python, React, Apache, and Nginx. I'm also experienced in DevOps, working with CI/CD, Gitlab, Bitbucket, Docker, Git, Jira, and Confluence. Additionally, I handle server maintenance and database administration for PostgreSQL and MySQL.
 
-* I was Student Tutor of 3 disciplines: Data Base, Algorithms and Data Structures II and Compilers at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
+</details>
 
+<details>
 
-* And I was Intern Researcher on a <a href="https://github.com/nanvix">Nanvix</a> project! Specializing in Compilers and Operating Systems at Nanvix. Involved in the development of a virtual machine using C and C++. Specifically in a Just-In-Time translation engine for the operating system Nanvix emulator that would translate assembly instructions from MIPS to RISC-V processor
+<summary><b><u>Undergraduate Tutoring</u></b></summary>
+<br/>
+I was Student Tutor of 3 disciplines: Data Base, Algorithms and Data Structures II and Compilers at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
+
+</details>
+
+<details>
+
+<summary><b><u>Intern Researcher</u></b></summary>
+<br/>
+I was Intern Researcher on a <a href="https://github.com/nanvix">Nanvix</a> project! Specializing in Compilers and Operating Systems at Nanvix. Involved in the development of a virtual machine using C and C++. Specifically in a Just-In-Time translation engine for the operating system Nanvix emulator that would translate assembly instructions from MIPS to RISC-V processor
 Hi, I'm 25 years old, and I undergraduate from Computer Science at Pontifical Catholic University of Minas Gerais - PUCMINAS
+
+</details>
+
+<details>
+
+<summary><b><u>My open source projects</u></b></summary><br/>
 
 My main projects:
    * Developer and maintainer of Operating System <a href="https://github.com/viniciusfdasilva/vinux">Vinux</a>, based on a Linux Kernel
    * Developer and maintainer of <a href="https://github.com/viniciusfdasilva/danixfs">Danix</a>! A small subsystem builder and manager
-
+</details>
 
 
 <a href="https://github.com/viniciusfdasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfdasilva&show_icons=true&theme=dark"/>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfdasilva&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfdasilva&hide=html&layout=compact&langs_count=16&theme=dark"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-React" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/react-original.svg">
@@ -45,5 +68,3 @@ My main projects:
   <a href="https://medium.com/@vinicius.silva.1046664"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/viniciusfdasilva/viniciusfdasilva/output/github-contribution-grid-snake-dark.svg" alt="">
