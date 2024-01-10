@@ -56,6 +56,8 @@ My main projects:
 <img align="center" alt="Vini-Git" height="30" width="40" src="https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/git-original.svg">
 <img align="center" alt="Vini-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
 <img align="center" alt="Vini-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img align="center" alt="Vini-Go" height="30" width="40" src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true">
+<img align="center" alt="Vini-Go" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 </div>
   
   ##
