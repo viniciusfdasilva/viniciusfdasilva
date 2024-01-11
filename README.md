@@ -63,7 +63,7 @@ My main projects:
   ##
   
   <div>
-  <a href = "mailto: vinicius.silva.1046664@sga.pucminas.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: viniciusilva@ieee.org"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/viniciusfsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/viniciusfdasilva" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://medium.com/@vinicius.silva.1046664"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
