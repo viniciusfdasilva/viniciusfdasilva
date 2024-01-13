@@ -67,5 +67,5 @@ My main projects:
 <a href="https://www.linkedin.com/in/viniciusfsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/viniciusfdasilva" target="_blank"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://medium.com/@vinicius.silva.1046664"><img src="https://img.shields.io/badge/-Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-
+<a href="https://silvavinicius.com.br/research"><img src="https://img.shields.io/badge/-Website-%A020F0?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>
 </div>
