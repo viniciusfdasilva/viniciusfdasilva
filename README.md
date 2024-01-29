@@ -3,7 +3,7 @@
 -->
 
 
-## Hi! 👋 I'm Vinicius Silva! :nerd_face:
+## Hi 👋 I'm Vinicius Silva! :nerd_face:
 
 <details>
 
