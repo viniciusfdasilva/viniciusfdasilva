@@ -17,7 +17,7 @@ I'm Mid-Level Fullstack developer at Sociedade Mineira de Cultura. I've been wor
 
 <summary><b><u>Undergraduate Tutoring</u></b></summary>
 <br/>
-I was Student Tutor of 3 disciplines: Data Base, Algorithms and Data Structures II and Compilers at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
+I was Student Tutor of 3 disciplines: Algorithms and Data Structures II, Compilers and Data Base at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
 
 </details>
 
