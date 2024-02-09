@@ -4,7 +4,6 @@
 ## Hi 👋 I'm Vinicius Silva! :nerd_face:
 
 <details>
-  
 <summary><b><u>Web Full Stack Developer</u></b></summary>
 
 <br/>
