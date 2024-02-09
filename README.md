@@ -1,7 +1,6 @@
 <!--
 # [![Vinicius Silva](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)](https://github.com/viniciusfdasilva/viniciusfdasilva/blob/main/icon/logo.png)
 -->
-
 ## Hi 👋 I'm Vinicius Silva! :nerd_face:
 
 <details>
