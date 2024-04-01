@@ -8,7 +8,6 @@
 <summary><b><u>Web Full Stack Developer</u></b></summary>
 <br/>
 I'm Mid-Level Fullstack developer at Sociedade Mineira de Cultura. I've been working in web software development for two years, using tools like Django, Python, React, Apache, and Nginx. I'm also experienced in DevOps, working with CI/CD, Gitlab, Bitbucket, Docker, Git, Jira, and Confluence. Additionally, I handle server maintenance and database administration for PostgreSQL and MySQL.
-
 </details>
 <details>
 
