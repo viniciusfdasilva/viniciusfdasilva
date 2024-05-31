@@ -9,7 +9,6 @@
 I'm Mid-Level Fullstack developer at Sociedade Mineira de Cultura. I've been working in web software development for two years, using tools like Django, Python, React, Apache, and Nginx. I'm also experienced in DevOps, working with CI/CD, Gitlab, Bitbucket, Docker, Git, Jira, and Confluence. Additionally, I handle server maintenance and database administration for PostgreSQL and MySQL.
 </details>
 <details>
-
 <summary><b><u>Undergraduate Tutoring</u></b></summary>
 <br/>
 I was Student Tutor of 3 disciplines: Algorithms and Data Structures II, Compilers and Data Base at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
