@@ -3,35 +3,16 @@
 -->
 ## Hi 👋 I'm Vinicius Silva! :nerd_face:
 
-<details>
-<summary><b><u>Web Full Stack Developer</u></b></summary>
-  
-<br/>
-I'm Mid-Level Fullstack developer at Sociedade Mineira de Cultura. I've been working in web software development for two years, using tools like Django, Python, React, Apache, and Nginx. I'm also experienced in DevOps, working with CI/CD, Gitlab, Bitbucket, Docker, Git, Jira, and Confluence. Additionally, I handle server maintenance and database administration for PostgreSQL and MySQL.
-</details>
-<details>
-<summary><b><u>Undergraduate Tutoring</u></b></summary>
-<br/>
-I was Student Tutor of 3 disciplines: Algorithms and Data Structures II, Compilers and Data Base at the Institute of Exact Sciences and Informatics - ICEI - PUCMINAS. As a mentor, I provide assistance to students of the course by addressing their questions and supporting the lead instructor.
 
-</details>
 
-<details>
+I am master's student at the Federal University of Minas Gerais (UFMG), a member of the Compilers Lab as a Graduate Researcher. I also hold a bachelor's degree in Computer Science from the Pontifical Catholic University of Minas Gerais (PUCMINAS).
 
-<summary><b><u>Intern Researcher</u></b></summary>
-<br/>
-I was Intern Researcher on a <a href="https://github.com/nanvix">Nanvix</a> project! Specializing in Compilers and Operating Systems at Nanvix. Involved in the development of a virtual machine using C and C++. Specifically in a Just-In-Time translation engine for the operating system Nanvix emulator that would translate assembly instructions from MIPS to RISC-V processor.
+I do research in Operating Systems and Compilers, and I contribute to the Open Source community in these areas. During my undergraduate studies, I was a teaching assistant for the courses Databases, Algorithms and Data Structures II, and Compilers. I also did research on the Nanvix operating system, where I developed a just-in-time translator that converts MIPS instructions to RISCV for a virtual machine in development. For my final graduation project, I implemented a library for interprocess communication in microkernel systems and user space, using zero-copy techniques.
 
-</details>
+ I worked too as a Mid-Level Web Developer at Sociedade Mineira de Cultura.
 
-<details>
+Additionally, I developed mobile applications for the PUCMINAS Dental Clinic and have five software patents from these projects.
 
-<summary><b><u>My open source projects</u></b></summary><br/>
-
-My main projects:
-   * Developer and maintainer of Operating System <a href="https://github.com/viniciusfdasilva/vinux">Vinux</a>, based on a Linux Kernel
-   * Developer and maintainer of <a href="https://github.com/viniciusfdasilva/danixfs">Danix</a>! A small subsystem builder and manager
-</details>
 
 
 <a href="https://github.com/viniciusfdasilva">
