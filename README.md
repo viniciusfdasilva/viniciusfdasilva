@@ -13,7 +13,7 @@ public:
     string university;
     string position;
     string location;
-    string reseach_area;
+    string research_area;
     bool finished;
 
     AcademicLife(Person p,string program,string university,string position,string location,string area,bool finished) {
