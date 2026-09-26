@@ -42,5 +42,5 @@ Person* p = new Person("Vinicius Francisco da Silva", 27);
 
 new AcademicLife(p,"Undergraduate Degree","PUC MINAS","Undergraduate Student","ICEI","Computer Science",true);
 new AcademicLife(p,"Postgraduate Latu Sensu Course","UNICAMP","Latu Sensu Student","Extecamp","Data Science",false);
-new AcademicLife(p,"Master's Degree","UFMG","Graduate Researcher","Compilers Lab","Compilers",false);
+new AcademicLife(p,"Master's Degree","UFMG","Graduate Researcher","Compilers Lab","Compilers",true);
 ```
